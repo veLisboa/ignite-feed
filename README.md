@@ -1,2 +1,10 @@
 # ignite-feed
-Study project of an feed with a few features.
+This is my second project with Reactjs.
+I've used Typescript in order to improve code quality
+Most of this project were intended to study:
+• Componentization
+• Iterations through JSX and TSX
+• State
+• Imutability
+• Closures
+• and More
